@@ -1,0 +1,8 @@
+#+TITLE: README.org --- My personal resume written in LaTeX
+#+DATE: <2017-06-16 Fri>
+#+AUTHOR: Geoffrey T. Wark
+#+EMAIL: geoff@geoffwark.com
+
+Some sections are omitted from this repo due to privacy concerns.
+
+Inspiration comes mostly from [[https://www.youtube.com/watch?v=VjsX4tznW40][Luke Smith]].  Consider checking out the rest of his [[https://youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA/videos?feature=hovercard][YouTube channel]] or [[http://lukesmith.xyz/][website]].  Very informative stuff on many Linux topics (albeit with some casual meme injections).
